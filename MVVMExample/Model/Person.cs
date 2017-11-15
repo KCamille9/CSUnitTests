@@ -13,6 +13,7 @@ namespace MVVMExample.Model
         public String Proffesions { get; set; }
         public int ID { get; set; }
         public String sleeeeep { get; set; }
+        //por q ?
 
 
 
