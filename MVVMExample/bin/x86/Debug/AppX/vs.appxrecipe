@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>e1936145-61b2-4b52-adfd-7b9c3be3f3af</PackageIdentityName>
     <PackageIdentityPublisher>CN=Camille</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>E72BC79D9647C407B6025673CB24CDE89003B5B8036DCE460D065E17AA4F67B3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e1936145-61b2-4b52-adfd-7b9c3be3f3af_1.0.0.0_x86__dc2j3157w5aqr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e1936145-61b2-4b52-adfd-7b9c3be3f3af_dc2j3157w5aqr!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-14T23:30:30.232</Modified>
+      <Modified>2017-11-15T20:18:45.643</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\bin\x86\Debug\MVVMExample.exe">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\bin\x86\Debug\MVVMExample.exe">
       <PackagePath>entrypoint\MVVMExample.exe</PackagePath>
-      <Modified>2017-11-14T23:30:27.506</Modified>
+      <Modified>2017-11-15T20:18:39.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Camille\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,60 +495,60 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-12T05:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-10-29T01:42:34.773</Modified>
+      <Modified>2017-11-15T20:11:47.486</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-09-11T19:01:44.373</Modified>
+      <Modified>2017-11-15T20:11:47.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-11T19:01:44.373</Modified>
+      <Modified>2017-11-15T20:11:47.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-11T19:01:44.373</Modified>
+      <Modified>2017-11-15T20:11:47.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-11T19:01:44.373</Modified>
+      <Modified>2017-11-15T20:11:47.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-11T19:01:44.373</Modified>
+      <Modified>2017-11-15T20:11:47.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-11T19:01:44.373</Modified>
+      <Modified>2017-11-15T20:11:47.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-11T19:01:44.373</Modified>
+      <Modified>2017-11-15T20:11:47.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\bin\x86\Debug\MVVMExample.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\bin\x86\Debug\MVVMExample.xr.xml">
       <PackagePath>MVVMExample.xr.xml</PackagePath>
-      <Modified>2017-11-13T20:58:51.310</Modified>
+      <Modified>2017-11-15T20:11:49.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-11T20:04:44.903</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-13T21:15:12.592</Modified>
+      <Modified>2017-11-15T20:18:44.027</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Camille\Documents\Visual Studio 2017\Projects\MVVMExample\MVVMExample\bin\x86\Debug\Core\MVVMExample.exe">
+    <AppxPackagedFile Include="C:\Users\Camille\source\repos\CSUnitTests\MVVMExample\bin\x86\Debug\Core\MVVMExample.exe">
       <PackagePath>MVVMExample.exe</PackagePath>
-      <Modified>2017-11-14T23:30:30.187</Modified>
+      <Modified>2017-11-15T20:18:45.621</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

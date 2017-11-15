@@ -8,6 +8,7 @@ namespace MVVMExample.Model
 {
     public class AirPlane
     {
+
         public String CompanyNameModel { get; set; }
         public String TypeOfPlaneModel { get; set; }
         public int NumOfPlanesModel { get; set; }

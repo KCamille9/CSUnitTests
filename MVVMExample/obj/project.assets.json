@@ -24336,11 +24336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Camille\\Documents\\Visual Studio 2017\\Projects\\MVVMExample\\MVVMExample\\MVVMExample.csproj",
+      "projectUniqueName": "C:\\Users\\Camille\\source\\repos\\CSUnitTests\\MVVMExample\\MVVMExample.csproj",
       "projectName": "MVVMExample",
-      "projectPath": "C:\\Users\\Camille\\Documents\\Visual Studio 2017\\Projects\\MVVMExample\\MVVMExample\\MVVMExample.csproj",
+      "projectPath": "C:\\Users\\Camille\\source\\repos\\CSUnitTests\\MVVMExample\\MVVMExample.csproj",
       "packagesPath": "C:\\Users\\Camille\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Camille\\Documents\\Visual Studio 2017\\Projects\\MVVMExample\\MVVMExample\\obj\\",
+      "outputPath": "C:\\Users\\Camille\\source\\repos\\CSUnitTests\\MVVMExample\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
