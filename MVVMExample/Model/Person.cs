@@ -12,6 +12,8 @@ namespace MVVMExample.Model
         public int Age { get; set; }
         public String Proffesions { get; set; }
         public int ID { get; set; }
+        public String sleeeeep { get; set; }
+        //por q ?
 
 
 
@@ -22,6 +24,9 @@ namespace MVVMExample.Model
             this.Age = numOfPlanes;
             this.Proffesions = proffesion;
         }
+
+        //quiero dormir
+
 
 
         public String Sentence
